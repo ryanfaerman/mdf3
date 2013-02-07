@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quote Book</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Get Another Quote</string>
+    <string name="quote_field">YOUR QUOTE HERE</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="save_text">Save</string>
+
+</resources>
